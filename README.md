@@ -4,6 +4,21 @@ Mi Lita is a work in progress that is currently in the early alpha stage at the 
 
 Built with Unreal Engine 5.3
 
+Pre-Release Download: https://github.com/AkumaVenom/MiLita-SmartA.I-UE5-PackagedGame/releases
+
+===========================================================
+
+Save Data Info:
+
+Saved data of Lita's memory with the player is located inside the "SaveGames" folder in "Mi Lita AI Simulation" folder.
+
+"SessionID.sav" file is Lita's memories with the player, you can delete it to start fresh with her or back it up so you don't lose her memories with you.
+
+"SaveVariables.sav" file contains the current location in the world of the player and Lita, Make sure to save the game before exiting.
+
+===========================================================
+
+
 Mi Lita is a cutting-edge simulation game powered by the latest advancements in AI and Unreal Engine 5. Players are NOT interacting with a pre-programmed NPC, They are conversing with Lita, the game's captivating star attraction, who possesses true conversational freedom powered by the latest in Chat AI.
 
 Lita is the heart and soul of your experience. Using voice recognition, you can speak directly to her with your voice, and she’ll respond with her own voice in real time with her own thoughts, emotions, and actions inside the game world, thanks to her advanced AI.
