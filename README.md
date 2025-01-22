@@ -16,7 +16,9 @@ In Mi Lita, you don't just play the game, You shape it, one conversation and act
 
 Internet Connection is required in game.
 
-https://discord.gg/Uf8Q8usSmk
+AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
+
+Preview Video: https://www.youtube.com/watch?v=-PaCrgbH6ME
 
 ===========================================================
 
