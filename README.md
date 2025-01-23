@@ -2,6 +2,8 @@
 
 Mi Lita is a work in progress that is currently in the early alpha stage at the moment.
 
+A.I Model Info: (llama-3 70B Model) NSFW Role-play in UE5 with Voice Recognition.
+
 Built with Unreal Engine 5.3
 
 Pre-Release Download: https://github.com/AkumaVenom/MiLita-SmartA.I-UE5-PackagedGame/releases
