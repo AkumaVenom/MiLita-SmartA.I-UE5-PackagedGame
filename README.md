@@ -1,5 +1,7 @@
 # MiLita-SmartA.I-UE5-PackagedGame
 
+Game Demo Valid Until 13-02-2025
+
 Mi Lita is a work in progress that is currently in the early alpha stage at the moment.
 
 A.I Model Info: (llama-3 70B Model) NSFW Role-play in UE5 with Voice Recognition.
