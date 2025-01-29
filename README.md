@@ -1,27 +1,13 @@
 # MiLita-SmartA.I-UE5-PackagedGame
 
-Game Demo Valid Until 13-02-2025
+(Gemma-2 9B Offline Model) TTS Cyberpunk Role-play in UE5 with Voice Recognition.
+
+100% offline, NO internet needed to run it, it is completely local only.
+The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
 Mi Lita is a work in progress that is currently in the early alpha stage at the moment.
 
-A.I Model Info: (llama-3 70B Model) NSFW Role-play in UE5 with Voice Recognition.
-
-Built with Unreal Engine 5.3
-
-Pre-Release Download: https://github.com/AkumaVenom/MiLita-SmartA.I-UE5-PackagedGame/releases
-
-===========================================================
-
-Save Data Info:
-
-Saved data of Lita's memory with the player is located inside the "SaveGames" folder in "Mi Lita AI Simulation" folder.
-
-"SessionID.sav" file is Lita's memories with the player, you can delete it to start fresh with her or back it up so you don't lose her memories with you.
-
-"SaveVariables.sav" file contains the current location in the world of the player and Lita, Make sure to save the game before exiting.
-
-===========================================================
-
+Built with Unreal Engine 5.4
 
 Mi Lita is a cutting-edge simulation game powered by the latest advancements in AI and Unreal Engine 5. Players are NOT interacting with a pre-programmed NPC, They are conversing with Lita, the game's captivating star attraction, who possesses true conversational freedom powered by the latest in Chat AI.
 
@@ -32,8 +18,6 @@ Set in a sprawling cyberpunk slum metropolis where the night never ends, Neon Ci
 Mi Lita isn’t just about talking to a digital companion—it’s about exploring a world where your interactions matter. As you engage with Lita, She may learn from you, adapt to your choices, and make decisions of her own. The deeper you connect with Lita, the more complex and dynamic your journey through Neon City becomes. Whether you're diving into the city's dark secrets, or simply exploring the endless neon-lit streets and nightclubs, Mi Lita offers a new kind of storytelling, one where the lines between player and character blur, and every life like conversation could lead to a surprising new path.
 
 In Mi Lita, you don't just play the game, You shape it, one conversation and action at a time. Are you ready to meet Lita and see where your choices take you in this living, breathing world?
-
-Internet Connection is required in game.
 
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
