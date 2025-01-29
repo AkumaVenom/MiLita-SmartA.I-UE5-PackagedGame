@@ -21,8 +21,6 @@ In Mi Lita, you don't just play the game, You shape it, one conversation and act
 
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
-Preview Video: https://www.youtube.com/watch?v=-PaCrgbH6ME
-
 ===========================================================
 
 ![MiLita1080](https://github.com/user-attachments/assets/48e711d0-a157-45b2-9f90-a4e3c605e52b)
