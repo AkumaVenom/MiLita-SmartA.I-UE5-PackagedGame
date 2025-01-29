@@ -1,6 +1,7 @@
 # MiLita-SmartA.I-UE5-PackagedGame
 
 (Llama-3 8B Offline Model) A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
+
 The exact model now used is "Meta-Llama-3-8B-Instruct.Q4_K_S"
 
 100% offline, NO internet needed to run it, it is completely local only.
