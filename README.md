@@ -9,9 +9,15 @@ This model utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fa
 100% offline, NO internet needed to run it, it is completely local only.
 The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
+Features voice commands like "follow me" to get Lita to follow you and "stop following me" to get her to stop.
+
 Mi Lita is a work in progress that is currently in the early alpha stage at the moment.
 
 Built with Unreal Engine 5.4
+
+AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
+
+===========================================================
 
 Mi Lita is a cutting-edge simulation game powered by the latest advancements in AI and Unreal Engine 5. Players are NOT interacting with a pre-programmed NPC, They are conversing with Lita, the game's captivating star attraction, who possesses true conversational freedom powered by the latest in Chat AI.
 
@@ -22,8 +28,6 @@ Set in a sprawling cyberpunk slum metropolis where the night never ends, Neon Ci
 Mi Lita isn’t just about talking to a digital companion—it’s about exploring a world where your interactions matter. As you engage with Lita, She may learn from you, adapt to your choices, and make decisions of her own. The deeper you connect with Lita, the more complex and dynamic your journey through Neon City becomes. Whether you're diving into the city's dark secrets, or simply exploring the endless neon-lit streets and nightclubs, Mi Lita offers a new kind of storytelling, one where the lines between player and character blur, and every life like conversation could lead to a surprising new path.
 
 In Mi Lita, you don't just play the game, You shape it, one conversation and action at a time. Are you ready to meet Lita and see where your choices take you in this living, breathing world?
-
-AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 ===========================================================
 
