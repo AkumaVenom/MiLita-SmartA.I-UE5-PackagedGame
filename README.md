@@ -4,6 +4,8 @@
 
 The exact model now used is "Meta-Llama-3-8B-Instruct.Q4_K_S"
 
+This model utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fallback to use CPU.
+
 100% offline, NO internet needed to run it, it is completely local only.
 The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
