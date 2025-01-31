@@ -2,7 +2,7 @@
 
 (Llama-3 8B Offline Model) A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-The exact model is "Meta-Llama-3-8B-Instruct.Q6_K" This is the Best 8B Llama Model being used.
+The exact model is "Meta-Llama-3-8B-Instruct.Q5_K_S"
 
 This model utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fallback to use CPU.
 
