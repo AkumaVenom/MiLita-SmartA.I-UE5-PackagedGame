@@ -2,7 +2,7 @@
 
 UE5.5 Version Download: Coming Very Soon!
 
-Built with Unreal Engine 5.5.2 - Major A.I Model performance increase with UE5.5
+Built with Unreal Engine 5.5.2 - Major A.I Model performance increase with UE5.5, Text generates a lot faster now and TTS voice starts quicker with less wait time to generate voice.
 
 (Llama-3 8B Offline Model) A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
