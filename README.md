@@ -1,6 +1,8 @@
 # MiLita-SmartA.I-UE5-PackagedGame
 
-Game Download: https://drive.google.com/file/d/1PR4kjZ6QD6dSPQ770YJZvlQdN68PA1MN/view?usp=sharing
+UE5.5 Version Download: Coming Very Soon!
+
+Built with Unreal Engine 5.5.2 - Major A.I Model performance increase with UE5.5
 
 (Llama-3 8B Offline Model) A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
@@ -15,8 +17,6 @@ The A.I's Feature TTS Voices and Speech recognition en-us, everything running 10
 Features voice commands like "follow me" to get Lita to follow you and "stop following me" to get her to stop.
 
 Mi Lita is a work in progress that is currently in the early alpha stage at the moment.
-
-Built with Unreal Engine 5.4
 
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
