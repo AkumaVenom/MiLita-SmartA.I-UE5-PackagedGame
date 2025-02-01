@@ -5,8 +5,9 @@ Game Download: https://drive.google.com/file/d/1PR4kjZ6QD6dSPQ770YJZvlQdN68PA1MN
 (Llama-3 8B Offline Model) A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
+Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
 
-This model utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fallback to use CPU.
+This game utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fallback to use CPU.
 
 100% offline, NO internet needed to run it, it is completely local only.
 The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
