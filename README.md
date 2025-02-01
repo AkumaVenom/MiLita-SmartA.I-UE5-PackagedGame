@@ -9,10 +9,10 @@ Built with Unreal Engine 5.5.2 - Major A.I Model performance increase with UE5.5
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
 
-This game utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fallback to use CPU.
-
 100% offline, NO internet needed to run it, it is completely local only.
 The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
+
+This game utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fallback to use CPU.
 
 Features voice commands like "follow me" to get Lita to follow you and "stop following me" to get her to stop.
 
