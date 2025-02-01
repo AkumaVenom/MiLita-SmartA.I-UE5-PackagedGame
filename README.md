@@ -34,6 +34,6 @@ In Mi Lita, you don't just play the game, You shape it, one conversation and act
 
 ===========================================================
 
-![MiLita1080](https://github.com/user-attachments/assets/48e711d0-a157-45b2-9f90-a4e3c605e52b)
+![MAIN](https://github.com/user-attachments/assets/ef2532b7-c79a-4f9c-b88a-68f63acf6185)
 
 ===========================================================
