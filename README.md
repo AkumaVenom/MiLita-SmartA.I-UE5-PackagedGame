@@ -4,7 +4,7 @@ UE5.5 Version Download: https://drive.google.com/file/d/1OKpXYmxC1mXRuOP63YU1OBx
 
 Built with Unreal Engine 5.5.2 - Major A.I Model performance increase with UE5.5, Text generates a lot faster now and TTS voice starts quicker with less wait time to generate voice.
 
-(Llama-3 8B Offline Model) A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
+(use any gguf Model) A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
