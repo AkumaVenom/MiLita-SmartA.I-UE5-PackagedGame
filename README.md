@@ -1,6 +1,6 @@
 # MiLita-SmartA.I-UE5-PackagedGame
 
-UE5.5 Version Download: https://drive.google.com/file/d/1OKpXYmxC1mXRuOP63YU1OBxMlNea6NKv/view?usp=sharing
+UE5.5 Version Download: https://drive.google.com/file/d/15AeVBC83NInWISF1Fr_vR6JfQTo1O6WT/view?usp=sharing
 
 Built with Unreal Engine 5.5.2 - Major A.I Model performance increase with UE5.5, Text generates a lot faster now and TTS voice starts quicker with less wait time to generate voice.
 
