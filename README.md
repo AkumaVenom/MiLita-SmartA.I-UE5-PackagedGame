@@ -6,9 +6,11 @@ Built with Unreal Engine 5.5.2 - Big A.I Model performance increase with UE5.5, 
 
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-The default recommended A.I model used for this game is "llama3-8b-instruct-uncensored-JR"
+The default recommended A.I model used for this game is "LLama-3-8b-Uncensored"
 
-https://huggingface.co/jdqqjr/llama3-8b-instruct-uncensored-JR
+https://huggingface.co/mradermacher/LLama-3-8b-Uncensored-i1-GGUF
+
+https://huggingface.co/DevsDoCode/LLama-3-8b-Uncensored
 
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
