@@ -6,7 +6,7 @@ Built with Unreal Engine 5.5.2 - Major A.I Model performance increase with UE5.5
 
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-The default A.I model used for this game is "llama3-8b-instruct-uncensored-JR"
+The default recommended A.I model used for this game is "llama3-8b-instruct-uncensored-JR"
 
 https://huggingface.co/jdqqjr/llama3-8b-instruct-uncensored-JR
 
