@@ -10,6 +10,8 @@ The default A.I model used is "llama-3-experiment-v1-9B-Uncensored" Huge thanks 
 
 https://huggingface.co/nicoboss/llama-3-experiment-v1-9B-Uncensored
 
+https://huggingface.co/nicoboss
+
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
 
