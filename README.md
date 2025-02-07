@@ -40,6 +40,14 @@ In Mi Lita, you don't just play the game, You shape it, one conversation and act
 
 ===========================================================
 
+Update v0.0.15.0:
+
+-Lita now blinks her eyes and her mouth has basic lip sync when talking.
+
+-Added third person player character model, Press "V" to change between first person & third persion view mode.
+
+===========================================================
+
 ![MAIN](https://github.com/user-attachments/assets/ef2532b7-c79a-4f9c-b88a-68f63acf6185)
 
 ===========================================================
