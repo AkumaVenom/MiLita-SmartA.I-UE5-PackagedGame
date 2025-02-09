@@ -1,16 +1,14 @@
 # MiLita-SmartA.I-UE5-PackagedGame
 
-UE5.5 Version Download: https://drive.google.com/file/d/12OAzd94e9CqO7ZmDxKgC3ONpLki3dHjI/view?usp=sharing
+UE5.5 Version Download: https://drive.google.com/file/d/1ba5of_as9305OX9ahc3w3z97nUDPazmw/view?usp=sharing
 
 Built with Unreal Engine 5.5.2 - Big A.I Model performance increase with UE5.5, Text generates a lot faster now and TTS voice starts quicker with less wait time to generate voice.
 
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-The default recommended A.I model used for this game is "LLama-3-8b-Uncensored" "Q4_K_S"
+The default recommended A.I model used for this game is "Meta-Llama-3-8B-Instruct.i1" "IQ4_XS"
 
-https://huggingface.co/mradermacher/LLama-3-8b-Uncensored-i1-GGUF
-
-https://huggingface.co/DevsDoCode/LLama-3-8b-Uncensored
+https://huggingface.co/mradermacher/Meta-Llama-3-8B-Instruct-i1-GGUF/blob/main/Meta-Llama-3-8B-Instruct.i1-IQ4_XS.gguf
 
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
@@ -28,6 +26,16 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 ===========================================================
 
+Save Data Info:
+
+Save data is located: \Mi Lita 0.0.16.0 UE5.5\MiLita\Saved\SaveGames
+
+ChatHistory.sav is all the history of chat you have had with Lita, Delete it to start over with her.
+
+Location.sav is the current saved locations of both the player and Lita.
+
+===========================================================
+
 Mi Lita is a cutting-edge simulation game powered by the latest advancements in AI and Unreal Engine 5. Players are NOT interacting with a pre-programmed NPC, They are conversing with Lita, the game's captivating star attraction, who possesses true conversational freedom powered by the latest in Chat AI.
 
 Lita is the heart and soul of your experience. Using voice recognition, you can speak directly to her with your voice, and she’ll respond with her own voice in real time with her own thoughts, emotions, and actions inside the game world, thanks to her advanced AI.
@@ -40,11 +48,9 @@ In Mi Lita, you don't just play the game, You shape it, one conversation and act
 
 ===========================================================
 
-Update v0.0.15.0:
+Update v0.0.16.0:
 
--Lita now blinks her eyes and her mouth has basic lip sync when talking.
-
--Added third person player character model, Press "V" to change between first person & third persion view mode.
+-Chat history now saves and loads automatically, Lita can now remember the chat history with the player after closing the game and entering back into it.
 
 ===========================================================
 
