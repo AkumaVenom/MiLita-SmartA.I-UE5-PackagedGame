@@ -30,7 +30,7 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 Save Data Info:
 
-Save data is located: \Mi Lita 0.0.16.0 UE5.5\MiLita\Saved\SaveGames
+Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\MiLita\Saved\SaveGames
 
 ChatHistory.sav is all the history of chat you have had with Lita, Delete it to start over with her.
 
@@ -50,9 +50,9 @@ In Mi Lita, you don't just play the game, You shape it, one conversation and act
 
 ===========================================================
 
-Update v0.0.16.0:
+Update v0.0.17.0:
 
--Chat history now saves and loads automatically, Lita can now remember the chat history with the player after closing the game and entering back into it.
+-The game has been optimized for much less CPU usage freeing it up for the new turbo ai model to run better.
 
 ===========================================================
 
