@@ -1,8 +1,12 @@
 # MiLita-SmartA.I-UE5-PackagedGame
 
-UE5.5 Version Download: https://drive.google.com/file/d/1ba5of_as9305OX9ahc3w3z97nUDPazmw/view?usp=sharing
+UE5.5 Version Download: https://drive.google.com/file/d/1RTuUyNDyYwi9gwOEoxQaQlN8QxYgDigR/view?usp=sharing
 
-Built with Unreal Engine 5.5.2 - Big A.I Model performance increase with UE5.5, Text generates a lot faster now and TTS voice starts quicker with less wait time to generate voice.
+Built with Unreal Engine 5.5.2
+
+It is highly recommended to install Cuda 12.2 for improved load time and ai model preformance and if Cuda is not detected it will fallback to use CPU.
+
+https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
@@ -15,8 +19,6 @@ Note: don't expect every GGUF model to work but i have tested many and a lot wor
 
 100% offline, NO internet needed to run it, it is completely local only.
 The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
-
-This game utilizes Cuda 12.2 GPU support and if Cuda is not detected it will fallback to use CPU.
 
 Features voice commands like "follow me" to get Lita to follow you and "stop following me" to get her to stop.
 
