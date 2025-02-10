@@ -10,9 +10,9 @@ https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&targ
 
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-The default recommended A.I model used for this game is "Meta-Llama-3-8B-Instruct.i1" "IQ4_XS"
+The default A.I model is highly recommended to use, It is a turbo model used for the fastest text generation for the ai "llama3-turbcat-instruct-8b.i1-IQ4_XS.gguf"
 
-https://huggingface.co/mradermacher/Meta-Llama-3-8B-Instruct-i1-GGUF/blob/main/Meta-Llama-3-8B-Instruct.i1-IQ4_XS.gguf
+https://huggingface.co/mradermacher/llama3-turbcat-instruct-8b-i1-GGUF/blob/main/llama3-turbcat-instruct-8b.i1-IQ4_XS.gguf
 
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
