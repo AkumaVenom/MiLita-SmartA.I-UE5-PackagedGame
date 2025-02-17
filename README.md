@@ -6,7 +6,7 @@ Built with Unreal Engine 5.5.2
 
 It is highly recommended to install Cuda 12.2 for improved load time and ai model preformance and if Cuda is not detected it will fallback to use CPU.
 
-https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
+https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
 
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
