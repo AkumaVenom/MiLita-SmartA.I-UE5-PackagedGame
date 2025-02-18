@@ -52,7 +52,7 @@ In Mi Lita, you don't just play the game, You shape it, one conversation and act
 
 Update v0.0.17.0:
 
--The game has been optimized for much less CPU usage freeing it up for the new turbo ai model to run better.
+-The game has been optimized for much less CPU usage.
 
 ===========================================================
 
