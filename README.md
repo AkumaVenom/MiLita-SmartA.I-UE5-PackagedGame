@@ -4,7 +4,7 @@ UE5.5 Version Download: https://drive.google.com/file/d/1RTuUyNDyYwi9gwOEoxQaQlN
 
 Built with Unreal Engine 5.5.2
 
-It is highly recommended to install Cuda 12.2 even if you dont use it for improved load time and if Cuda is not detected it will fallback to use CPU but will take longer to load the game up.
+It is highly recommended to install Cuda 12.2 even if you dont use it for improved load time and if Cuda is not detected it will still work but take longer to load the game up.
 
 https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
 
