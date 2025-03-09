@@ -1,6 +1,6 @@
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-v0.0.19.0 Download: Link Coming Very Soon.
+v0.0.19.0 Download: https://drive.google.com/file/d/1__ThyKUmFlA6cPAe8b7JA2l0fwNmm768/view?usp=sharing
 
 New Update v0.0.19.0:
 
