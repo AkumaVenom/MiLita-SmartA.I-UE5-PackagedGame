@@ -62,7 +62,17 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 ===========================================================
 
-New Update v0.0.18.0:
+New Update v0.0.19.0:
+
+Choose from 3 different TTS Voices at runtime in the new dropdown selection options found on the top of the chat screen UI.
+
+-Implemented high quality TTS Kokoro 82M voice model "Jessica" for selection as the A.I's voice
+
+-Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
+
+-Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
+
+Update v0.0.18.0:
 
 -Implemented high quality TTS Kokoro 82M voice model Jessica for the A.I's voice
 
