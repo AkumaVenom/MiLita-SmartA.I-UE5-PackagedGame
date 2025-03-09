@@ -1,10 +1,16 @@
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-v0.0.18.0 Download: https://drive.google.com/file/d/1xehzw3P71spRxO9l1lyMMIsPTEvNzl0a/view?usp=sharing
+v0.0.19.0 Download: Link Coming Very Soon.
 
-New Update v0.0.18.0:
+New Update v0.0.19.0:
 
--Implemented high quality TTS Kokoro 82M voice model Jessica for the A.I's voice
+Choose from 3 different TTS Voices at runtime in the new dropdown selection options found on the top of the chat screen UI.
+
+-Implemented high quality TTS Kokoro 82M voice model "Jessica" for selection as the A.I's voice
+
+-Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
+
+-Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
 
 Built with Unreal Engine 5.5.3
 
@@ -23,6 +29,12 @@ Set in a sprawling cyberpunk slum metropolis where the night never ends, Neon Ci
 Mi Lita isn’t just about talking to a digital companion—it’s about exploring a world where your interactions matter. As you engage with Lita, She may learn from you, adapt to your choices, and make decisions of her own. The deeper you connect with Lita, the more complex and dynamic your journey through Neon City becomes. Whether you're diving into the city's dark secrets, or simply exploring the endless neon-lit streets and nightclubs, Mi Lita offers a new kind of storytelling, one where the lines between player and character blur, and every life like conversation could lead to a surprising new path.
 
 In Mi Lita, you don't just play the game, You shape it, one conversation and action at a time. Are you ready to meet Lita and see where your choices take you in this living, breathing world?
+
+===========================================================
+
+Press TAB key to toggle the mouse cursor on & off.
+
+Hold T key to activate the microphone, releasing T key will stop the microphone.
 
 ===========================================================
 
