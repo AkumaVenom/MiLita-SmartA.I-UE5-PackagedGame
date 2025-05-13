@@ -1,18 +1,16 @@
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-v0.0.19.0 Download: https://drive.google.com/file/d/1__ThyKUmFlA6cPAe8b7JA2l0fwNmm768/view?usp=sharing
+v0.0.20.0 Download: https://drive.google.com/file/d/1mUMNFk4Wcdp_z8lDaTAVuKUi0bBNjS42/view?usp=sharing
 
-New Update v0.0.19.0:
+New Update v0.0.20.0:
 
-Choose from 3 different TTS Voices at runtime in the new dropdown selection options found on the top of the chat screen UI.
+Applied Updated TTS Audio Importer
 
--Implemented high quality TTS Kokoro 82M voice model "Jessica" for selection as the A.I's voice
+added background npcs to level
 
--Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
+added videos playing on screens: "Neomon TV"
 
--Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
-
-Built with Unreal Engine 5.5.3
+Built with Unreal Engine 5.5.4
 
 ===========================================================
 
@@ -44,10 +42,6 @@ https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&targ
 
 ===========================================================
 
-The default A.I model is recommended to use "Meta-Llama-3-8B-Instruct.Q4_K_S.gguf"
-
-https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q4_K_S.gguf
-
 The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
 
@@ -62,7 +56,15 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 ===========================================================
 
-New Update v0.0.19.0:
+New Update v0.0.20.0:
+
+Applied Updated TTS Audio Importer
+
+added background npcs to level
+
+added videos playing on screens: "Neomon TV"
+
+Update v0.0.19.0:
 
 Choose from 3 different TTS Voices at runtime in the new dropdown selection options found on the top of the chat screen UI.
 
