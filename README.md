@@ -83,3 +83,25 @@ ChatHistory.sav is all the history of chat you have had with Lita, Delete it to 
 Location.sav is the current saved locations of both the player and Lita.
 
 ===========================================================
+
+Recommended System Requirements:
+
+Ram: 16GB
+
+Video Ram: 6GB
+
+SSD/HDD: 10GB
+
+Direct X 11 & Direct X 12
+
+OS: Windows 11 64bit
+
+Requires a CPU that supports AVX, AVX2 and FMA.
+
+The following CPUs should work:
+
+Intel: 4th Generation (Haswell) and above
+
+AMD: All Ryzen series
+
+========================================
