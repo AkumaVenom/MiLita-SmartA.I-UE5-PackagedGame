@@ -1,14 +1,16 @@
 A.I TTS Cyberpunk Role-play in UE5 with Voice Recognition.
 
-v0.0.20.0 Download: https://drive.google.com/file/d/1mUMNFk4Wcdp_z8lDaTAVuKUi0bBNjS42/view?usp=sharing
+v0.0.21.0 Download Link: https://drive.google.com/file/d/182-GFaf5J8NQYdjuQCYU_7odbTEiuc6v/view?usp=sharing
 
-New Update v0.0.20.0:
+===========================================================
 
-Applied Updated TTS Audio Importer
+New Update v0.0.21.0:
 
-added background npcs to level
+-Optimized and changed code for saving & loading LLM chat history, now has very fast loading of saved chat history.
 
-added videos playing on screens: "Neomon TV"
+-Removed auto saving of chat history, Added a new Save Chat Button so you can decide when you want to save chat.
+
+-Handles larger contexts better now. (faster LLM text generation than before when context becomes big)
 
 Built with Unreal Engine 5.5.4
 
@@ -54,7 +56,15 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 ===========================================================
 
-New Update v0.0.20.0:
+New Update v0.0.21.0:
+
+-Optimized and changed code for saving & loading LLM chat history, now has very fast loading of saved chat history.
+
+-Removed auto saving of chat history, Added a new Save Chat Button so you can decide when you want to save chat.
+
+-Handles larger contexts better now. (faster LLM text generation than before when context becomes big)
+
+Update v0.0.20.0:
 
 Applied Updated TTS Audio Importer
 
